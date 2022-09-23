@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Derivative Calculator</string>
+    <string name="derivative_calculator">Derivative Calculator</string>
+    <string name="please_input_a_formula">Please input a formula</string>
+    <string name="calculate_derivative">Calculate Derivative</string>
+    <string name="calculate">Calculate</string>
+</resources>
